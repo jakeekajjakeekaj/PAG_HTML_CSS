@@ -1,0 +1,1 @@
+Este es un proyecto en donde se creará una página usando únicamente HTML y CSS, tal vez un poco de lo que es JS, pero sería poco, la intención principal es hacer un proyecto tomando en práctica todo lo aprendido hasta el momento
