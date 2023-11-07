@@ -5,3 +5,5 @@ Los H1 solo se nombran una vez en la página para hacer referencia al título, d
 La etiqueta main se utiliza solo una vez en la página, y básicamente se va al objetivo principal de la página, es decir que si se va a ofrecer un servicio por ejemplo, lo ideal sería colocar esto dentro de la etiqueta main
 
 DIA 03-11-23 H 27-37 / 1-14-20
+
+DIA 06-11-23 H 48-50 / 1-14-20
